@@ -1,0 +1,413 @@
+{
+ "uniqueness": {
+  "backend/middle": {
+   "questions_per_test": 12,
+   "pairwise_same_question_share": 0.0016,
+   "pairwise_same_prompt_answer_share": 0.0005,
+   "families_per_test_mean": 10.51,
+   "leak_coverage_by_bank_size": {
+    "1": {
+     "mean_share_known": 0.0017,
+     "max_share_known": 0.083,
+     "tests_fully_covered": 0
+    },
+    "10": {
+     "mean_share_known": 0.0058,
+     "max_share_known": 0.083,
+     "tests_fully_covered": 0
+    },
+    "100": {
+     "mean_share_known": 0.0533,
+     "max_share_known": 0.25,
+     "tests_fully_covered": 0
+    },
+    "300": {
+     "mean_share_known": 0.0958,
+     "max_share_known": 0.25,
+     "tests_fully_covered": 0
+    }
+   }
+  },
+  "frontend/junior": {
+   "questions_per_test": 12,
+   "pairwise_same_question_share": 0.0022,
+   "pairwise_same_prompt_answer_share": 0.0213,
+   "families_per_test_mean": 10.38,
+   "leak_coverage_by_bank_size": {
+    "1": {
+     "mean_share_known": 0.0158,
+     "max_share_known": 0.167,
+     "tests_fully_covered": 0
+    },
+    "10": {
+     "mean_share_known": 0.0808,
+     "max_share_known": 0.25,
+     "tests_fully_covered": 0
+    },
+    "100": {
+     "mean_share_known": 0.1175,
+     "max_share_known": 0.333,
+     "tests_fully_covered": 0
+    },
+    "300": {
+     "mean_share_known": 0.155,
+     "max_share_known": 0.333,
+     "tests_fully_covered": 0
+    }
+   }
+  },
+  "data/senior": {
+   "questions_per_test": 12,
+   "pairwise_same_question_share": 0.0035,
+   "pairwise_same_prompt_answer_share": 0.0009,
+   "families_per_test_mean": 10.34,
+   "leak_coverage_by_bank_size": {
+    "1": {
+     "mean_share_known": 0.0008,
+     "max_share_known": 0.083,
+     "tests_fully_covered": 0
+    },
+    "10": {
+     "mean_share_known": 0.01,
+     "max_share_known": 0.167,
+     "tests_fully_covered": 0
+    },
+    "100": {
+     "mean_share_known": 0.0525,
+     "max_share_known": 0.25,
+     "tests_fully_covered": 0
+    },
+    "300": {
+     "mean_share_known": 0.075,
+     "max_share_known": 0.25,
+     "tests_fully_covered": 0
+    }
+   }
+  },
+  "devops/trainee": {
+   "questions_per_test": 12,
+   "pairwise_same_question_share": 0.0094,
+   "pairwise_same_prompt_answer_share": 0.0052,
+   "families_per_test_mean": 10.25,
+   "leak_coverage_by_bank_size": {
+    "1": {
+     "mean_share_known": 0.0042,
+     "max_share_known": 0.083,
+     "tests_fully_covered": 0
+    },
+    "10": {
+     "mean_share_known": 0.0458,
+     "max_share_known": 0.333,
+     "tests_fully_covered": 0
+    },
+    "100": {
+     "mean_share_known": 0.1642,
+     "max_share_known": 0.417,
+     "tests_fully_covered": 0
+    },
+    "300": {
+     "mean_share_known": 0.2425,
+     "max_share_known": 0.583,
+     "tests_fully_covered": 0
+    }
+   }
+  },
+  "qa/middle": {
+   "questions_per_test": 12,
+   "pairwise_same_question_share": 0.0024,
+   "pairwise_same_prompt_answer_share": 0.0008,
+   "families_per_test_mean": 10.31,
+   "leak_coverage_by_bank_size": {
+    "1": {
+     "mean_share_known": 0.0,
+     "max_share_known": 0.0,
+     "tests_fully_covered": 0
+    },
+    "10": {
+     "mean_share_known": 0.0067,
+     "max_share_known": 0.083,
+     "tests_fully_covered": 0
+    },
+    "100": {
+     "mean_share_known": 0.0575,
+     "max_share_known": 0.25,
+     "tests_fully_covered": 0
+    },
+    "300": {
+     "mean_share_known": 0.1242,
+     "max_share_known": 0.417,
+     "tests_fully_covered": 0
+    }
+   }
+  }
+ },
+ "discrimination": {
+  "pass_rate_matrix": {
+   "trainee->trainee": 0.604,
+   "trainee->junior": 0.152,
+   "trainee->middle": 0.004,
+   "trainee->senior": 0.0,
+   "junior->trainee": 0.988,
+   "junior->junior": 0.784,
+   "junior->middle": 0.2,
+   "junior->senior": 0.04,
+   "middle->trainee": 1.0,
+   "middle->junior": 0.996,
+   "middle->middle": 0.804,
+   "middle->senior": 0.5,
+   "senior->trainee": 1.0,
+   "senior->junior": 1.0,
+   "senior->middle": 1.0,
+   "senior->senior": 0.964
+  },
+  "ratio_sd": {
+   "trainee->trainee": 0.175,
+   "trainee->junior": 0.161,
+   "trainee->middle": 0.134,
+   "trainee->senior": 0.108,
+   "junior->trainee": 0.092,
+   "junior->junior": 0.149,
+   "junior->middle": 0.158,
+   "junior->senior": 0.161,
+   "middle->trainee": 0.053,
+   "middle->junior": 0.087,
+   "middle->middle": 0.15,
+   "middle->senior": 0.172,
+   "senior->trainee": 0.046,
+   "senior->junior": 0.05,
+   "senior->middle": 0.081,
+   "senior->senior": 0.093
+  },
+  "variant_equivalence": {
+   "trainee": {
+    "expected_ratio_mean": 0.738,
+    "expected_ratio_sd": 0.0084,
+    "min": 0.731,
+    "max": 0.783
+   },
+   "junior": {
+    "expected_ratio_mean": 0.784,
+    "expected_ratio_sd": 0.0077,
+    "min": 0.778,
+    "max": 0.812
+   },
+   "middle": {
+    "expected_ratio_mean": 0.798,
+    "expected_ratio_sd": 0.0058,
+    "min": 0.794,
+    "max": 0.82
+   },
+   "senior": {
+    "expected_ratio_mean": 0.916,
+    "expected_ratio_sd": 0.0018,
+    "min": 0.914,
+    "max": 0.923
+   }
+  }
+ },
+ "reliability": {
+  "trainee": {
+   "pass_rate": 0.687,
+   "agreement": 0.697,
+   "kappa": 0.303,
+   "ratio_pearson_r": 0.388
+  },
+  "junior": {
+   "pass_rate": 0.828,
+   "agreement": 0.76,
+   "kappa": 0.175,
+   "ratio_pearson_r": 0.322
+  },
+  "middle": {
+   "pass_rate": 0.825,
+   "agreement": 0.795,
+   "kappa": 0.242,
+   "ratio_pearson_r": 0.329
+  },
+  "senior": {
+   "pass_rate": 0.942,
+   "agreement": 0.913,
+   "kappa": 0.166,
+   "ratio_pearson_r": 0.244
+  },
+  "category_stability_ladder": 0.635
+ },
+ "attacks": {
+  "trainee": {
+   "random_guess_pass_rate": 0.0,
+   "copy_perfect_friend_pass_rate": 0.0,
+   "copy_perfect_friend_mean_ratio": 0.038
+  },
+  "junior": {
+   "random_guess_pass_rate": 0.0,
+   "copy_perfect_friend_pass_rate": 0.0,
+   "copy_perfect_friend_mean_ratio": 0.034
+  },
+  "middle": {
+   "random_guess_pass_rate": 0.0,
+   "copy_perfect_friend_pass_rate": 0.0,
+   "copy_perfect_friend_mean_ratio": 0.031
+  },
+  "senior": {
+   "random_guess_pass_rate": 0.0,
+   "copy_perfect_friend_pass_rate": 0.0,
+   "copy_perfect_friend_mean_ratio": 0.031
+  }
+ },
+ "matching": {
+  "0.0": {
+   "platform": {
+    "p10": 0.728,
+    "ndcg10": 0.791
+   },
+   "baseline_self_description": {
+    "p10": 0.911,
+    "ndcg10": 0.939
+   },
+   "population": {
+    "candidates_with_category": 635,
+    "needs": 150,
+    "claim_overstated_share": 0.0,
+    "category_equals_true_share": 0.825
+   }
+  },
+  "0.25": {
+   "platform": {
+    "p10": 0.66,
+    "ndcg10": 0.773
+   },
+   "baseline_self_description": {
+    "p10": 0.703,
+    "ndcg10": 0.798
+   },
+   "population": {
+    "candidates_with_category": 631,
+    "needs": 150,
+    "claim_overstated_share": 0.19,
+    "category_equals_true_share": 0.732
+   }
+  },
+  "0.5": {
+   "platform": {
+    "p10": 0.549,
+    "ndcg10": 0.7
+   },
+   "baseline_self_description": {
+    "p10": 0.481,
+    "ndcg10": 0.652
+   },
+   "population": {
+    "candidates_with_category": 629,
+    "needs": 150,
+    "claim_overstated_share": 0.437,
+    "category_equals_true_share": 0.674
+   }
+  },
+  "0.75": {
+   "platform": {
+    "p10": 0.618,
+    "ndcg10": 0.725
+   },
+   "baseline_self_description": {
+    "p10": 0.367,
+    "ndcg10": 0.582
+   },
+   "population": {
+    "candidates_with_category": 633,
+    "needs": 150,
+    "claim_overstated_share": 0.635,
+    "category_equals_true_share": 0.649
+   }
+  }
+ },
+ "sensitivity": {
+  "0.6": {
+   "trainee": {
+    "own": 0.22,
+    "next_up": 0.01,
+    "one_below": null
+   },
+   "junior": {
+    "own": 0.54,
+    "next_up": 0.02,
+    "one_below": 0.85
+   },
+   "middle": {
+    "own": 0.42,
+    "next_up": 0.1,
+    "one_below": 0.94
+   },
+   "senior": {
+    "own": 0.75,
+    "next_up": null,
+    "one_below": 0.93
+   }
+  },
+  "0.9": {
+   "trainee": {
+    "own": 0.47,
+    "next_up": 0.07,
+    "one_below": null
+   },
+   "junior": {
+    "own": 0.69,
+    "next_up": 0.11,
+    "one_below": 0.94
+   },
+   "middle": {
+    "own": 0.66,
+    "next_up": 0.33,
+    "one_below": 0.98
+   },
+   "senior": {
+    "own": 0.87,
+    "next_up": null,
+    "one_below": 1.0
+   }
+  },
+  "1.2": {
+   "trainee": {
+    "own": 0.65,
+    "next_up": 0.18,
+    "one_below": null
+   },
+   "junior": {
+    "own": 0.81,
+    "next_up": 0.23,
+    "one_below": 0.98
+   },
+   "middle": {
+    "own": 0.8,
+    "next_up": 0.47,
+    "one_below": 0.97
+   },
+   "senior": {
+    "own": 0.95,
+    "next_up": null,
+    "one_below": 0.99
+   }
+  },
+  "1.5": {
+   "trainee": {
+    "own": 0.82,
+    "next_up": 0.45,
+    "one_below": null
+   },
+   "junior": {
+    "own": 0.93,
+    "next_up": 0.4,
+    "one_below": 0.99
+   },
+   "middle": {
+    "own": 0.95,
+    "next_up": 0.7,
+    "one_below": 1.0
+   },
+   "senior": {
+    "own": 0.96,
+    "next_up": null,
+    "one_below": 1.0
+   }
+  }
+ }
+}

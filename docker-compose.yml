@@ -1,0 +1,21 @@
+services:
+  web:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      # ОБЯЗАТЕЛЬНО замените в боевом режиме: python -c "import secrets;print(secrets.token_hex(32))"
+      SECRET_KEY: "${SECRET_KEY:-change-me-change-me-change-me-change-me}"
+      PUBLIC_URL: "${PUBLIC_URL:-http://localhost:8000}"
+      DEV_MODE: "${DEV_MODE:-1}"          # 1 — ссылка подтверждения e-mail возвращается в ответе; 0 — письмо уходит по SMTP
+      SMTP_HOST: "${SMTP_HOST:-}"
+      SMTP_PORT: "${SMTP_PORT:-587}"
+      SMTP_USER: "${SMTP_USER:-}"
+      SMTP_PASSWORD: "${SMTP_PASSWORD:-}"
+      SMTP_FROM: "${SMTP_FROM:-no-reply@fsp-talent.local}"
+      SEED_DEMO: "${SEED_DEMO:-1}"
+      FSP_REGISTRY_FILE: /srv/app/data/fsp_registry.json
+    volumes:
+      - dbdata:/srv/app/storage
+volumes:
+  dbdata:

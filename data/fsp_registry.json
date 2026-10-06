@@ -1,0 +1,2758 @@
+[
+ {
+  "fsp_id": "FSP-100000",
+  "email": "demo.candidate@fsp-demo.ru",
+  "full_name": "Татьяна Белова",
+  "events": [
+   {
+    "id": 0,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-02-09",
+    "place": 37,
+    "participants": 120,
+    "points": 86
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100001",
+  "email": "cand01@fsp-demo.ru",
+  "full_name": "Наталья Иванов",
+  "events": [
+   {
+    "id": 10,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-06-04",
+    "place": 17,
+    "participants": 200,
+    "points": 46
+   },
+   {
+    "id": 11,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2024-10-30",
+    "place": 10,
+    "participants": 40,
+    "points": 50
+   },
+   {
+    "id": 12,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2024-06-23",
+    "place": 12,
+    "participants": 60,
+    "points": 58
+   },
+   {
+    "id": 13,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-06-26",
+    "place": 162,
+    "participants": 350,
+    "points": 81
+   },
+   {
+    "id": 14,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-12-04",
+    "place": 43,
+    "participants": 350,
+    "points": 100
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100002",
+  "email": "cand02@fsp-demo.ru",
+  "full_name": "Никита Белова",
+  "events": [
+   {
+    "id": 20,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-08-13",
+    "place": 21,
+    "participants": 120,
+    "points": 84
+   },
+   {
+    "id": 21,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2025-04-25",
+    "place": 107,
+    "participants": 350,
+    "points": 86
+   },
+   {
+    "id": 22,
+    "title": "Школа ФСП",
+    "type": "hackathon",
+    "date": "2024-05-14",
+    "place": 41,
+    "participants": 200,
+    "points": 63
+   },
+   {
+    "id": 23,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-02-13",
+    "place": 307,
+    "participants": 350,
+    "points": 38
+   },
+   {
+    "id": 24,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2024-09-21",
+    "place": 42,
+    "participants": 60,
+    "points": 89
+   },
+   {
+    "id": 25,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-05-08",
+    "place": 55,
+    "participants": 200,
+    "points": 25
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100003",
+  "email": "cand03@fsp-demo.ru",
+  "full_name": "Анна Орлов",
+  "events": [
+   {
+    "id": 30,
+    "title": "Лига ФСП: осень",
+    "type": "hackathon",
+    "date": "2025-03-13",
+    "place": 33,
+    "participants": 350,
+    "points": 92
+   },
+   {
+    "id": 31,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2025-07-09",
+    "place": 190,
+    "participants": 350,
+    "points": 35
+   },
+   {
+    "id": 32,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-04-25",
+    "place": 87,
+    "participants": 120,
+    "points": 93
+   },
+   {
+    "id": 33,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2025-09-22",
+    "place": 326,
+    "participants": 350,
+    "points": 35
+   },
+   {
+    "id": 34,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2024-06-20",
+    "place": 64,
+    "participants": 120,
+    "points": 65
+   },
+   {
+    "id": 35,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2025-11-05",
+    "place": 174,
+    "participants": 350,
+    "points": 68
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100004",
+  "email": "cand04@fsp-demo.ru",
+  "full_name": "Ольга Белова",
+  "events": [
+   {
+    "id": 40,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2024-05-16",
+    "place": 35,
+    "participants": 350,
+    "points": 71
+   },
+   {
+    "id": 41,
+    "title": "Лига ФСП: осень",
+    "type": "hackathon",
+    "date": "2026-06-19",
+    "place": 19,
+    "participants": 40,
+    "points": 34
+   },
+   {
+    "id": 42,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-09-25",
+    "place": 7,
+    "participants": 200,
+    "points": 67
+   },
+   {
+    "id": 43,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2025-01-09",
+    "place": 125,
+    "participants": 350,
+    "points": 35
+   },
+   {
+    "id": 44,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2024-11-10",
+    "place": 1,
+    "participants": 60,
+    "points": 91
+   },
+   {
+    "id": 45,
+    "title": "Лига ФСП: весна",
+    "type": "training",
+    "date": "2024-10-19",
+    "place": 5,
+    "participants": 120,
+    "points": 27
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100005",
+  "email": "cand05@fsp-demo.ru",
+  "full_name": "Павел Петрова",
+  "events": [
+   {
+    "id": 50,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-07-01",
+    "place": 55,
+    "participants": 60,
+    "points": 63
+   },
+   {
+    "id": 51,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2025-04-24",
+    "place": 53,
+    "participants": 60,
+    "points": 62
+   },
+   {
+    "id": 52,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-09-05",
+    "place": 139,
+    "participants": 200,
+    "points": 11
+   },
+   {
+    "id": 53,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2024-05-25",
+    "place": 8,
+    "participants": 40,
+    "points": 54
+   },
+   {
+    "id": 54,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-04-21",
+    "place": 106,
+    "participants": 120,
+    "points": 70
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100006",
+  "email": "cand06@fsp-demo.ru",
+  "full_name": "Мария Орлов",
+  "events": [
+   {
+    "id": 60,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-02-17",
+    "place": 102,
+    "participants": 120,
+    "points": 89
+   },
+   {
+    "id": 61,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-07-08",
+    "place": 2,
+    "participants": 60,
+    "points": 89
+   },
+   {
+    "id": 62,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-03-14",
+    "place": 31,
+    "participants": 120,
+    "points": 61
+   },
+   {
+    "id": 63,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-12-01",
+    "place": 2,
+    "participants": 40,
+    "points": 79
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100007",
+  "email": "cand07@fsp-demo.ru",
+  "full_name": "Артём Попова",
+  "events": [
+   {
+    "id": 70,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2026-05-16",
+    "place": 17,
+    "participants": 60,
+    "points": 92
+   },
+   {
+    "id": 71,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-04-14",
+    "place": 26,
+    "participants": 350,
+    "points": 94
+   },
+   {
+    "id": 72,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2024-04-20",
+    "place": 12,
+    "participants": 60,
+    "points": 20
+   },
+   {
+    "id": 73,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2025-12-30",
+    "place": 26,
+    "participants": 200,
+    "points": 69
+   },
+   {
+    "id": 74,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2025-12-05",
+    "place": 199,
+    "participants": 200,
+    "points": 69
+   },
+   {
+    "id": 75,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2026-05-26",
+    "place": 8,
+    "participants": 60,
+    "points": 77
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100008",
+  "email": "cand08@fsp-demo.ru",
+  "full_name": "Екатерина Соловьёва",
+  "events": [
+   {
+    "id": 80,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2024-12-03",
+    "place": 1,
+    "participants": 60,
+    "points": 52
+   },
+   {
+    "id": 81,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2026-08-29",
+    "place": 71,
+    "participants": 200,
+    "points": 55
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100009",
+  "email": "cand09@fsp-demo.ru",
+  "full_name": "Артём Кузнецов",
+  "events": [
+   {
+    "id": 90,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-12-29",
+    "place": 235,
+    "participants": 350,
+    "points": 45
+   },
+   {
+    "id": 91,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-02-19",
+    "place": 215,
+    "participants": 350,
+    "points": 47
+   },
+   {
+    "id": 92,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-06-14",
+    "place": 37,
+    "participants": 350,
+    "points": 43
+   },
+   {
+    "id": 93,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-10-25",
+    "place": 36,
+    "participants": 40,
+    "points": 17
+   },
+   {
+    "id": 94,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-04-25",
+    "place": 69,
+    "participants": 120,
+    "points": 50
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100010",
+  "email": "cand10@fsp-demo.ru",
+  "full_name": "Мария Васильев",
+  "events": [
+   {
+    "id": 100,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-09-11",
+    "place": 5,
+    "participants": 120,
+    "points": 62
+   },
+   {
+    "id": 101,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-06-19",
+    "place": 26,
+    "participants": 120,
+    "points": 40
+   },
+   {
+    "id": 102,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2025-11-07",
+    "place": 5,
+    "participants": 40,
+    "points": 68
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100011",
+  "email": "cand11@fsp-demo.ru",
+  "full_name": "Павел Петрова",
+  "events": [
+   {
+    "id": 110,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2024-11-02",
+    "place": 25,
+    "participants": 350,
+    "points": 25
+   },
+   {
+    "id": 111,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2025-08-23",
+    "place": 93,
+    "participants": 120,
+    "points": 47
+   },
+   {
+    "id": 112,
+    "title": "Московская командная олимпиада",
+    "type": "training",
+    "date": "2026-09-01",
+    "place": 1,
+    "participants": 120,
+    "points": 46
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100012",
+  "email": "cand12@fsp-demo.ru",
+  "full_name": "Алексей Васильев",
+  "events": [
+   {
+    "id": 120,
+    "title": "Лига ФСП: осень",
+    "type": "hackathon",
+    "date": "2025-02-03",
+    "place": 5,
+    "participants": 40,
+    "points": 12
+   },
+   {
+    "id": 121,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-09-17",
+    "place": 324,
+    "participants": 350,
+    "points": 24
+   },
+   {
+    "id": 122,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-05-20",
+    "place": 26,
+    "participants": 60,
+    "points": 76
+   },
+   {
+    "id": 123,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-08-27",
+    "place": 49,
+    "participants": 120,
+    "points": 64
+   },
+   {
+    "id": 124,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-09-04",
+    "place": 10,
+    "participants": 350,
+    "points": 40
+   },
+   {
+    "id": 125,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2026-03-22",
+    "place": 99,
+    "participants": 200,
+    "points": 79
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100013",
+  "email": "cand13@fsp-demo.ru",
+  "full_name": "Артём Волков",
+  "events": [
+   {
+    "id": 130,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2025-03-20",
+    "place": 4,
+    "participants": 60,
+    "points": 71
+   },
+   {
+    "id": 131,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2024-12-23",
+    "place": 20,
+    "participants": 200,
+    "points": 85
+   },
+   {
+    "id": 132,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2024-11-29",
+    "place": 29,
+    "participants": 40,
+    "points": 75
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100014",
+  "email": "cand14@fsp-demo.ru",
+  "full_name": "Екатерина Кузнецов",
+  "events": [
+   {
+    "id": 140,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2024-11-21",
+    "place": 216,
+    "participants": 350,
+    "points": 11
+   },
+   {
+    "id": 141,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-08-23",
+    "place": 16,
+    "participants": 60,
+    "points": 61
+   },
+   {
+    "id": 142,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2025-10-09",
+    "place": 110,
+    "participants": 120,
+    "points": 35
+   },
+   {
+    "id": 143,
+    "title": "Московская командная олимпиада",
+    "type": "training",
+    "date": "2025-03-13",
+    "place": 21,
+    "participants": 120,
+    "points": 70
+   },
+   {
+    "id": 144,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2026-04-21",
+    "place": 48,
+    "participants": 350,
+    "points": 72
+   },
+   {
+    "id": 145,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2024-07-03",
+    "place": 36,
+    "participants": 40,
+    "points": 14
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100015",
+  "email": "cand15@fsp-demo.ru",
+  "full_name": "Дмитрий Соколов",
+  "events": [
+   {
+    "id": 150,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2024-09-24",
+    "place": 42,
+    "participants": 120,
+    "points": 22
+   },
+   {
+    "id": 151,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2025-02-16",
+    "place": 13,
+    "participants": 40,
+    "points": 15
+   },
+   {
+    "id": 152,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-04-23",
+    "place": 38,
+    "participants": 200,
+    "points": 23
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100016",
+  "email": "cand16@fsp-demo.ru",
+  "full_name": "Алексей Соловьёва",
+  "events": [
+   {
+    "id": 160,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2026-08-14",
+    "place": 30,
+    "participants": 200,
+    "points": 85
+   },
+   {
+    "id": 161,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2025-03-20",
+    "place": 2,
+    "participants": 60,
+    "points": 46
+   },
+   {
+    "id": 162,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-08-22",
+    "place": 3,
+    "participants": 120,
+    "points": 90
+   },
+   {
+    "id": 163,
+    "title": "Московская командная олимпиада",
+    "type": "training",
+    "date": "2025-07-20",
+    "place": 30,
+    "participants": 40,
+    "points": 55
+   },
+   {
+    "id": 164,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-03-26",
+    "place": 17,
+    "participants": 350,
+    "points": 50
+   },
+   {
+    "id": 165,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-04-16",
+    "place": 13,
+    "participants": 350,
+    "points": 95
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100017",
+  "email": "cand17@fsp-demo.ru",
+  "full_name": "Ольга Соколов",
+  "events": [
+   {
+    "id": 170,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-01-20",
+    "place": 15,
+    "participants": 120,
+    "points": 88
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100018",
+  "email": "cand18@fsp-demo.ru",
+  "full_name": "Наталья Попова",
+  "events": [
+   {
+    "id": 180,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2025-08-31",
+    "place": 35,
+    "participants": 120,
+    "points": 43
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100019",
+  "email": "cand19@fsp-demo.ru",
+  "full_name": "Татьяна Волков",
+  "events": [
+   {
+    "id": 190,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2024-05-30",
+    "place": 170,
+    "participants": 200,
+    "points": 55
+   },
+   {
+    "id": 191,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-07-17",
+    "place": 172,
+    "participants": 200,
+    "points": 21
+   },
+   {
+    "id": 192,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-04-06",
+    "place": 130,
+    "participants": 200,
+    "points": 51
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100020",
+  "email": "cand20@fsp-demo.ru",
+  "full_name": "Павел Попова",
+  "events": [
+   {
+    "id": 200,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-06-22",
+    "place": 42,
+    "participants": 200,
+    "points": 69
+   },
+   {
+    "id": 201,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2025-08-02",
+    "place": 46,
+    "participants": 60,
+    "points": 85
+   },
+   {
+    "id": 202,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-07-11",
+    "place": 14,
+    "participants": 200,
+    "points": 44
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100021",
+  "email": "cand21@fsp-demo.ru",
+  "full_name": "Павел Зайцева",
+  "events": [
+   {
+    "id": 210,
+    "title": "Лига ФСП: осень",
+    "type": "hackathon",
+    "date": "2026-04-30",
+    "place": 89,
+    "participants": 120,
+    "points": 79
+   },
+   {
+    "id": 211,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-12-25",
+    "place": 10,
+    "participants": 120,
+    "points": 47
+   },
+   {
+    "id": 212,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2026-09-03",
+    "place": 92,
+    "participants": 350,
+    "points": 80
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100022",
+  "email": "cand22@fsp-demo.ru",
+  "full_name": "Татьяна Белова",
+  "events": [
+   {
+    "id": 220,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-07-18",
+    "place": 20,
+    "participants": 40,
+    "points": 55
+   },
+   {
+    "id": 221,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2026-09-15",
+    "place": 1,
+    "participants": 120,
+    "points": 44
+   },
+   {
+    "id": 222,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2025-02-10",
+    "place": 191,
+    "participants": 350,
+    "points": 92
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100023",
+  "email": "cand23@fsp-demo.ru",
+  "full_name": "Ольга Орлов",
+  "events": [
+   {
+    "id": 230,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2024-12-13",
+    "place": 1,
+    "participants": 120,
+    "points": 25
+   },
+   {
+    "id": 231,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2024-07-08",
+    "place": 17,
+    "participants": 120,
+    "points": 68
+   },
+   {
+    "id": 232,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-07-07",
+    "place": 39,
+    "participants": 350,
+    "points": 81
+   },
+   {
+    "id": 233,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-04-19",
+    "place": 20,
+    "participants": 60,
+    "points": 52
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100024",
+  "email": "cand24@fsp-demo.ru",
+  "full_name": "Артём Зайцева",
+  "events": [
+   {
+    "id": 240,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-07-01",
+    "place": 178,
+    "participants": 350,
+    "points": 82
+   },
+   {
+    "id": 241,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2026-06-07",
+    "place": 112,
+    "participants": 200,
+    "points": 13
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100025",
+  "email": "cand25@fsp-demo.ru",
+  "full_name": "Павел Волков",
+  "events": [
+   {
+    "id": 250,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-05-31",
+    "place": 21,
+    "participants": 60,
+    "points": 94
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100026",
+  "email": "cand26@fsp-demo.ru",
+  "full_name": "Михаил Петрова",
+  "events": [
+   {
+    "id": 260,
+    "title": "Лига ФСП: весна",
+    "type": "training",
+    "date": "2025-10-26",
+    "place": 51,
+    "participants": 120,
+    "points": 42
+   },
+   {
+    "id": 261,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-05-21",
+    "place": 18,
+    "participants": 40,
+    "points": 56
+   },
+   {
+    "id": 262,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-09-14",
+    "place": 88,
+    "participants": 120,
+    "points": 45
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100027",
+  "email": "cand27@fsp-demo.ru",
+  "full_name": "Дмитрий Волков",
+  "events": [
+   {
+    "id": 270,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-09-12",
+    "place": 2,
+    "participants": 350,
+    "points": 92
+   },
+   {
+    "id": 271,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2025-05-19",
+    "place": 182,
+    "participants": 350,
+    "points": 88
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100028",
+  "email": "cand28@fsp-demo.ru",
+  "full_name": "Артём Белова",
+  "events": [
+   {
+    "id": 280,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-07-08",
+    "place": 59,
+    "participants": 120,
+    "points": 81
+   },
+   {
+    "id": 281,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2024-12-19",
+    "place": 37,
+    "participants": 60,
+    "points": 23
+   },
+   {
+    "id": 282,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2026-01-22",
+    "place": 337,
+    "participants": 350,
+    "points": 36
+   },
+   {
+    "id": 283,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-04-17",
+    "place": 63,
+    "participants": 200,
+    "points": 37
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100029",
+  "email": "cand29@fsp-demo.ru",
+  "full_name": "Иван Соколов",
+  "events": [
+   {
+    "id": 290,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2025-09-18",
+    "place": 181,
+    "participants": 350,
+    "points": 93
+   },
+   {
+    "id": 291,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2026-04-23",
+    "place": 68,
+    "participants": 200,
+    "points": 87
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100030",
+  "email": "cand30@fsp-demo.ru",
+  "full_name": "Екатерина Лебедева",
+  "events": [
+   {
+    "id": 300,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-12-12",
+    "place": 3,
+    "participants": 350,
+    "points": 48
+   },
+   {
+    "id": 301,
+    "title": "Школа ФСП",
+    "type": "hackathon",
+    "date": "2026-05-17",
+    "place": 2,
+    "participants": 60,
+    "points": 68
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100031",
+  "email": "cand31@fsp-demo.ru",
+  "full_name": "Дмитрий Зайцева",
+  "events": [
+   {
+    "id": 310,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-07-29",
+    "place": 24,
+    "participants": 40,
+    "points": 92
+   },
+   {
+    "id": 311,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-11-22",
+    "place": 103,
+    "participants": 350,
+    "points": 38
+   },
+   {
+    "id": 312,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-06-06",
+    "place": 62,
+    "participants": 350,
+    "points": 97
+   },
+   {
+    "id": 313,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2024-09-24",
+    "place": 8,
+    "participants": 200,
+    "points": 75
+   },
+   {
+    "id": 314,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-09-29",
+    "place": 11,
+    "participants": 40,
+    "points": 85
+   },
+   {
+    "id": 315,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-04-28",
+    "place": 18,
+    "participants": 120,
+    "points": 34
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100032",
+  "email": "cand32@fsp-demo.ru",
+  "full_name": "Татьяна Козлов",
+  "events": [
+   {
+    "id": 320,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2026-01-22",
+    "place": 12,
+    "participants": 200,
+    "points": 38
+   },
+   {
+    "id": 321,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2024-09-17",
+    "place": 14,
+    "participants": 200,
+    "points": 64
+   },
+   {
+    "id": 322,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-11-13",
+    "place": 153,
+    "participants": 200,
+    "points": 90
+   },
+   {
+    "id": 323,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2026-06-24",
+    "place": 178,
+    "participants": 200,
+    "points": 37
+   },
+   {
+    "id": 324,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2024-09-24",
+    "place": 1,
+    "participants": 60,
+    "points": 96
+   },
+   {
+    "id": 325,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-03-01",
+    "place": 185,
+    "participants": 350,
+    "points": 92
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100033",
+  "email": "cand33@fsp-demo.ru",
+  "full_name": "Павел Морозов",
+  "events": [
+   {
+    "id": 330,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2025-12-05",
+    "place": 14,
+    "participants": 40,
+    "points": 56
+   },
+   {
+    "id": 331,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2025-12-20",
+    "place": 1,
+    "participants": 200,
+    "points": 55
+   },
+   {
+    "id": 332,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-03-01",
+    "place": 194,
+    "participants": 200,
+    "points": 38
+   },
+   {
+    "id": 333,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2024-10-11",
+    "place": 31,
+    "participants": 120,
+    "points": 95
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100034",
+  "email": "cand34@fsp-demo.ru",
+  "full_name": "Иван Петрова",
+  "events": [
+   {
+    "id": 340,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2024-06-14",
+    "place": 10,
+    "participants": 40,
+    "points": 45
+   },
+   {
+    "id": 341,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-07-16",
+    "place": 1,
+    "participants": 120,
+    "points": 77
+   },
+   {
+    "id": 342,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-01-05",
+    "place": 75,
+    "participants": 200,
+    "points": 71
+   },
+   {
+    "id": 343,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-08-29",
+    "place": 1,
+    "participants": 350,
+    "points": 23
+   },
+   {
+    "id": 344,
+    "title": "Школа ФСП",
+    "type": "hackathon",
+    "date": "2026-09-07",
+    "place": 3,
+    "participants": 200,
+    "points": 15
+   },
+   {
+    "id": 345,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2024-09-05",
+    "place": 24,
+    "participants": 40,
+    "points": 52
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100035",
+  "email": "cand35@fsp-demo.ru",
+  "full_name": "Виктория Козлов",
+  "events": [
+   {
+    "id": 350,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-08-12",
+    "place": 8,
+    "participants": 60,
+    "points": 40
+   },
+   {
+    "id": 351,
+    "title": "Лига ФСП: весна",
+    "type": "training",
+    "date": "2026-08-14",
+    "place": 271,
+    "participants": 350,
+    "points": 72
+   },
+   {
+    "id": 352,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-07-30",
+    "place": 24,
+    "participants": 60,
+    "points": 24
+   },
+   {
+    "id": 353,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-04-01",
+    "place": 99,
+    "participants": 350,
+    "points": 12
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100036",
+  "email": "cand36@fsp-demo.ru",
+  "full_name": "Никита Васильев",
+  "events": [
+   {
+    "id": 360,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2025-11-28",
+    "place": 13,
+    "participants": 40,
+    "points": 40
+   },
+   {
+    "id": 361,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2024-04-24",
+    "place": 48,
+    "participants": 350,
+    "points": 84
+   },
+   {
+    "id": 362,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2025-03-31",
+    "place": 6,
+    "participants": 40,
+    "points": 25
+   },
+   {
+    "id": 363,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-03-07",
+    "place": 64,
+    "participants": 350,
+    "points": 31
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100037",
+  "email": "cand37@fsp-demo.ru",
+  "full_name": "Сергей Смирнова",
+  "events": [
+   {
+    "id": 370,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2026-09-20",
+    "place": 27,
+    "participants": 40,
+    "points": 41
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100038",
+  "email": "cand38@fsp-demo.ru",
+  "full_name": "Мария Козлов",
+  "events": [
+   {
+    "id": 380,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-01-07",
+    "place": 20,
+    "participants": 60,
+    "points": 31
+   },
+   {
+    "id": 381,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2025-06-24",
+    "place": 3,
+    "participants": 40,
+    "points": 80
+   },
+   {
+    "id": 382,
+    "title": "Московская командная олимпиада",
+    "type": "training",
+    "date": "2024-05-17",
+    "place": 6,
+    "participants": 40,
+    "points": 75
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100039",
+  "email": "cand39@fsp-demo.ru",
+  "full_name": "Никита Лебедева",
+  "events": [
+   {
+    "id": 390,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2024-11-27",
+    "place": 1,
+    "participants": 200,
+    "points": 18
+   },
+   {
+    "id": 391,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2025-05-31",
+    "place": 8,
+    "participants": 120,
+    "points": 43
+   },
+   {
+    "id": 392,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-03-14",
+    "place": 32,
+    "participants": 40,
+    "points": 91
+   },
+   {
+    "id": 393,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2024-06-08",
+    "place": 140,
+    "participants": 350,
+    "points": 16
+   },
+   {
+    "id": 394,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2025-06-07",
+    "place": 59,
+    "participants": 350,
+    "points": 21
+   },
+   {
+    "id": 395,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-03-05",
+    "place": 1,
+    "participants": 60,
+    "points": 21
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100040",
+  "email": "cand40@fsp-demo.ru",
+  "full_name": "Ольга Белова",
+  "events": [
+   {
+    "id": 400,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2025-08-12",
+    "place": 2,
+    "participants": 60,
+    "points": 45
+   },
+   {
+    "id": 401,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2026-07-11",
+    "place": 16,
+    "participants": 60,
+    "points": 26
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100041",
+  "email": "cand41@fsp-demo.ru",
+  "full_name": "Алексей Иванов",
+  "events": [
+   {
+    "id": 410,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2025-05-07",
+    "place": 31,
+    "participants": 60,
+    "points": 80
+   },
+   {
+    "id": 411,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2026-06-26",
+    "place": 1,
+    "participants": 40,
+    "points": 99
+   },
+   {
+    "id": 412,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2025-04-19",
+    "place": 91,
+    "participants": 200,
+    "points": 55
+   },
+   {
+    "id": 413,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2024-11-29",
+    "place": 24,
+    "participants": 40,
+    "points": 42
+   },
+   {
+    "id": 414,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2025-01-25",
+    "place": 1,
+    "participants": 60,
+    "points": 96
+   },
+   {
+    "id": 415,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-11-15",
+    "place": 181,
+    "participants": 350,
+    "points": 78
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100042",
+  "email": "cand42@fsp-demo.ru",
+  "full_name": "Артём Иванов",
+  "events": [
+   {
+    "id": 420,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-01-20",
+    "place": 33,
+    "participants": 60,
+    "points": 95
+   },
+   {
+    "id": 421,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2026-06-02",
+    "place": 122,
+    "participants": 200,
+    "points": 18
+   },
+   {
+    "id": 422,
+    "title": "Школа ФСП",
+    "type": "hackathon",
+    "date": "2026-04-27",
+    "place": 1,
+    "participants": 60,
+    "points": 62
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100043",
+  "email": "cand43@fsp-demo.ru",
+  "full_name": "Татьяна Белова",
+  "events": [
+   {
+    "id": 430,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2024-12-16",
+    "place": 44,
+    "participants": 350,
+    "points": 90
+   },
+   {
+    "id": 431,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-02-05",
+    "place": 10,
+    "participants": 40,
+    "points": 51
+   },
+   {
+    "id": 432,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2025-12-19",
+    "place": 139,
+    "participants": 200,
+    "points": 66
+   },
+   {
+    "id": 433,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2026-01-12",
+    "place": 116,
+    "participants": 200,
+    "points": 67
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100044",
+  "email": "cand44@fsp-demo.ru",
+  "full_name": "Павел Васильев",
+  "events": [
+   {
+    "id": 440,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2026-02-28",
+    "place": 85,
+    "participants": 120,
+    "points": 37
+   },
+   {
+    "id": 441,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2026-02-07",
+    "place": 67,
+    "participants": 120,
+    "points": 98
+   },
+   {
+    "id": 442,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-08-27",
+    "place": 5,
+    "participants": 120,
+    "points": 26
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100045",
+  "email": "cand45@fsp-demo.ru",
+  "full_name": "Наталья Смирнова",
+  "events": [
+   {
+    "id": 450,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2024-10-15",
+    "place": 126,
+    "participants": 350,
+    "points": 43
+   },
+   {
+    "id": 451,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2026-03-30",
+    "place": 93,
+    "participants": 120,
+    "points": 75
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100046",
+  "email": "cand46@fsp-demo.ru",
+  "full_name": "Елена Новикова",
+  "events": [
+   {
+    "id": 460,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2024-05-10",
+    "place": 252,
+    "participants": 350,
+    "points": 65
+   },
+   {
+    "id": 461,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2024-10-28",
+    "place": 10,
+    "participants": 350,
+    "points": 17
+   },
+   {
+    "id": 462,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2025-02-27",
+    "place": 47,
+    "participants": 350,
+    "points": 48
+   },
+   {
+    "id": 463,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2024-06-27",
+    "place": 15,
+    "participants": 200,
+    "points": 95
+   },
+   {
+    "id": 464,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2024-08-17",
+    "place": 109,
+    "participants": 350,
+    "points": 59
+   },
+   {
+    "id": 465,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-08-25",
+    "place": 26,
+    "participants": 350,
+    "points": 89
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100047",
+  "email": "cand47@fsp-demo.ru",
+  "full_name": "Павел Петрова",
+  "events": [
+   {
+    "id": 470,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2026-06-08",
+    "place": 66,
+    "participants": 350,
+    "points": 40
+   },
+   {
+    "id": 471,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2025-05-29",
+    "place": 3,
+    "participants": 60,
+    "points": 30
+   },
+   {
+    "id": 472,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2025-03-16",
+    "place": 64,
+    "participants": 200,
+    "points": 20
+   },
+   {
+    "id": 473,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-06-14",
+    "place": 1,
+    "participants": 40,
+    "points": 86
+   },
+   {
+    "id": 474,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-07-26",
+    "place": 55,
+    "participants": 120,
+    "points": 40
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100048",
+  "email": "cand48@fsp-demo.ru",
+  "full_name": "Никита Зайцева",
+  "events": [
+   {
+    "id": 480,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2024-11-20",
+    "place": 32,
+    "participants": 40,
+    "points": 29
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100049",
+  "email": "cand49@fsp-demo.ru",
+  "full_name": "Екатерина Попова",
+  "events": [
+   {
+    "id": 490,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2025-10-11",
+    "place": 28,
+    "participants": 40,
+    "points": 86
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100050",
+  "email": "cand50@fsp-demo.ru",
+  "full_name": "Татьяна Соколов",
+  "events": [
+   {
+    "id": 500,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2024-05-03",
+    "place": 10,
+    "participants": 120,
+    "points": 22
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100051",
+  "email": "cand51@fsp-demo.ru",
+  "full_name": "Мария Орлов",
+  "events": [
+   {
+    "id": 510,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-06-30",
+    "place": 21,
+    "participants": 40,
+    "points": 73
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100052",
+  "email": "cand52@fsp-demo.ru",
+  "full_name": "Ольга Соловьёва",
+  "events": [
+   {
+    "id": 520,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2026-03-24",
+    "place": 73,
+    "participants": 120,
+    "points": 64
+   },
+   {
+    "id": 521,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-07-18",
+    "place": 3,
+    "participants": 40,
+    "points": 23
+   },
+   {
+    "id": 522,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-01-17",
+    "place": 110,
+    "participants": 120,
+    "points": 87
+   },
+   {
+    "id": 523,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2024-07-13",
+    "place": 12,
+    "participants": 120,
+    "points": 23
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100053",
+  "email": "cand53@fsp-demo.ru",
+  "full_name": "Наталья Новикова",
+  "events": [
+   {
+    "id": 530,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2025-11-03",
+    "place": 159,
+    "participants": 200,
+    "points": 64
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100054",
+  "email": "cand54@fsp-demo.ru",
+  "full_name": "Михаил Попова",
+  "events": [
+   {
+    "id": 540,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2026-01-09",
+    "place": 116,
+    "participants": 350,
+    "points": 14
+   },
+   {
+    "id": 541,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2025-12-02",
+    "place": 150,
+    "participants": 350,
+    "points": 62
+   },
+   {
+    "id": 542,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2026-04-12",
+    "place": 8,
+    "participants": 120,
+    "points": 55
+   },
+   {
+    "id": 543,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2026-06-05",
+    "place": 47,
+    "participants": 350,
+    "points": 87
+   },
+   {
+    "id": 544,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2024-10-12",
+    "place": 1,
+    "participants": 60,
+    "points": 50
+   },
+   {
+    "id": 545,
+    "title": "Лига ФСП: осень",
+    "type": "training",
+    "date": "2025-01-07",
+    "place": 19,
+    "participants": 40,
+    "points": 69
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100055",
+  "email": "cand55@fsp-demo.ru",
+  "full_name": "Мария Иванов",
+  "events": [
+   {
+    "id": 550,
+    "title": "Лига ФСП: осень",
+    "type": "hackathon",
+    "date": "2025-02-19",
+    "place": 124,
+    "participants": 200,
+    "points": 58
+   },
+   {
+    "id": 551,
+    "title": "Лига ФСП: весна",
+    "type": "training",
+    "date": "2024-09-02",
+    "place": 1,
+    "participants": 120,
+    "points": 54
+   },
+   {
+    "id": 552,
+    "title": "Открытый кубок ФСП",
+    "type": "hackathon",
+    "date": "2025-07-29",
+    "place": 79,
+    "participants": 120,
+    "points": 69
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100056",
+  "email": "cand56@fsp-demo.ru",
+  "full_name": "Анна Кузнецов",
+  "events": [
+   {
+    "id": 560,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2026-05-30",
+    "place": 42,
+    "participants": 120,
+    "points": 52
+   },
+   {
+    "id": 561,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2026-09-23",
+    "place": 20,
+    "participants": 200,
+    "points": 36
+   },
+   {
+    "id": 562,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2026-08-06",
+    "place": 1,
+    "participants": 60,
+    "points": 100
+   },
+   {
+    "id": 563,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2026-06-12",
+    "place": 107,
+    "participants": 120,
+    "points": 96
+   },
+   {
+    "id": 564,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-12-03",
+    "place": 121,
+    "participants": 350,
+    "points": 26
+   },
+   {
+    "id": 565,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2024-10-14",
+    "place": 31,
+    "participants": 40,
+    "points": 18
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100057",
+  "email": "cand57@fsp-demo.ru",
+  "full_name": "Иван Зайцева",
+  "events": [
+   {
+    "id": 570,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-08-12",
+    "place": 1,
+    "participants": 200,
+    "points": 46
+   },
+   {
+    "id": 571,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2026-03-15",
+    "place": 174,
+    "participants": 200,
+    "points": 16
+   },
+   {
+    "id": 572,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2025-01-12",
+    "place": 27,
+    "participants": 200,
+    "points": 60
+   },
+   {
+    "id": 573,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2024-06-06",
+    "place": 1,
+    "participants": 40,
+    "points": 71
+   },
+   {
+    "id": 574,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-12-05",
+    "place": 92,
+    "participants": 200,
+    "points": 22
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100058",
+  "email": "cand58@fsp-demo.ru",
+  "full_name": "Сергей Орлов",
+  "events": [
+   {
+    "id": 580,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2026-02-27",
+    "place": 112,
+    "participants": 120,
+    "points": 51
+   },
+   {
+    "id": 581,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-08-25",
+    "place": 37,
+    "participants": 60,
+    "points": 23
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100059",
+  "email": "cand59@fsp-demo.ru",
+  "full_name": "Екатерина Соколов",
+  "events": [
+   {
+    "id": 590,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-09-15",
+    "place": 7,
+    "participants": 40,
+    "points": 83
+   },
+   {
+    "id": 591,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-10-12",
+    "place": 4,
+    "participants": 40,
+    "points": 42
+   },
+   {
+    "id": 592,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2024-06-04",
+    "place": 5,
+    "participants": 40,
+    "points": 79
+   },
+   {
+    "id": 593,
+    "title": "Лига ФСП: осень",
+    "type": "hackathon",
+    "date": "2024-07-12",
+    "place": 21,
+    "participants": 40,
+    "points": 27
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100060",
+  "email": "cand60@fsp-demo.ru",
+  "full_name": "Дмитрий Соколов",
+  "events": [
+   {
+    "id": 600,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2026-01-11",
+    "place": 33,
+    "participants": 350,
+    "points": 85
+   },
+   {
+    "id": 601,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-09-22",
+    "place": 35,
+    "participants": 200,
+    "points": 70
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100061",
+  "email": "cand61@fsp-demo.ru",
+  "full_name": "Татьяна Кузнецов",
+  "events": [
+   {
+    "id": 610,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2025-03-06",
+    "place": 81,
+    "participants": 120,
+    "points": 54
+   },
+   {
+    "id": 611,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-11-17",
+    "place": 34,
+    "participants": 60,
+    "points": 29
+   },
+   {
+    "id": 612,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "contest",
+    "date": "2026-02-25",
+    "place": 31,
+    "participants": 120,
+    "points": 49
+   },
+   {
+    "id": 613,
+    "title": "Московская командная олимпиада",
+    "type": "training",
+    "date": "2026-07-14",
+    "place": 4,
+    "participants": 40,
+    "points": 71
+   },
+   {
+    "id": 614,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2026-07-18",
+    "place": 14,
+    "participants": 120,
+    "points": 47
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100062",
+  "email": "cand62@fsp-demo.ru",
+  "full_name": "Татьяна Волков",
+  "events": [
+   {
+    "id": 620,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-11-07",
+    "place": 53,
+    "participants": 60,
+    "points": 35
+   },
+   {
+    "id": 621,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-01-09",
+    "place": 18,
+    "participants": 40,
+    "points": 73
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100063",
+  "email": "cand63@fsp-demo.ru",
+  "full_name": "Виктория Васильев",
+  "events": [
+   {
+    "id": 630,
+    "title": "Лига ФСП: весна",
+    "type": "training",
+    "date": "2024-10-24",
+    "place": 26,
+    "participants": 350,
+    "points": 72
+   },
+   {
+    "id": 631,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2025-09-19",
+    "place": 1,
+    "participants": 200,
+    "points": 35
+   },
+   {
+    "id": 632,
+    "title": "Школа ФСП",
+    "type": "hackathon",
+    "date": "2024-07-01",
+    "place": 313,
+    "participants": 350,
+    "points": 61
+   },
+   {
+    "id": 633,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2025-07-09",
+    "place": 270,
+    "participants": 350,
+    "points": 69
+   },
+   {
+    "id": 634,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2026-04-29",
+    "place": 18,
+    "participants": 40,
+    "points": 94
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100064",
+  "email": "cand64@fsp-demo.ru",
+  "full_name": "Ольга Козлов",
+  "events": [
+   {
+    "id": 640,
+    "title": "Лига ФСП: весна",
+    "type": "contest",
+    "date": "2026-01-20",
+    "place": 111,
+    "participants": 120,
+    "points": 64
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100065",
+  "email": "cand65@fsp-demo.ru",
+  "full_name": "Татьяна Петрова",
+  "events": [
+   {
+    "id": 650,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2026-05-24",
+    "place": 16,
+    "participants": 60,
+    "points": 14
+   },
+   {
+    "id": 651,
+    "title": "Хакатон ФСП",
+    "type": "training",
+    "date": "2024-06-26",
+    "place": 98,
+    "participants": 350,
+    "points": 92
+   },
+   {
+    "id": 652,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-03-26",
+    "place": 42,
+    "participants": 60,
+    "points": 49
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100066",
+  "email": "cand66@fsp-demo.ru",
+  "full_name": "Ольга Новикова",
+  "events": [
+   {
+    "id": 660,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-08-15",
+    "place": 73,
+    "participants": 200,
+    "points": 58
+   },
+   {
+    "id": 661,
+    "title": "Школа ФСП",
+    "type": "training",
+    "date": "2025-12-31",
+    "place": 95,
+    "participants": 120,
+    "points": 50
+   },
+   {
+    "id": 662,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "hackathon",
+    "date": "2025-03-11",
+    "place": 35,
+    "participants": 60,
+    "points": 21
+   },
+   {
+    "id": 663,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-06-11",
+    "place": 35,
+    "participants": 60,
+    "points": 32
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100067",
+  "email": "cand67@fsp-demo.ru",
+  "full_name": "Татьяна Волков",
+  "events": [
+   {
+    "id": 670,
+    "title": "Чемпионат ФСП по алгоритмам",
+    "type": "training",
+    "date": "2026-08-13",
+    "place": 75,
+    "participants": 350,
+    "points": 45
+   },
+   {
+    "id": 671,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2025-12-17",
+    "place": 64,
+    "participants": 120,
+    "points": 69
+   },
+   {
+    "id": 672,
+    "title": "Открытый кубок ФСП",
+    "type": "training",
+    "date": "2025-04-06",
+    "place": 64,
+    "participants": 120,
+    "points": 75
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100068",
+  "email": "cand68@fsp-demo.ru",
+  "full_name": "Артём Орлов",
+  "events": [
+   {
+    "id": 680,
+    "title": "Московская командная олимпиада",
+    "type": "hackathon",
+    "date": "2026-05-26",
+    "place": 1,
+    "participants": 40,
+    "points": 100
+   },
+   {
+    "id": 681,
+    "title": "Хакатон ФСП",
+    "type": "contest",
+    "date": "2025-10-27",
+    "place": 13,
+    "participants": 40,
+    "points": 83
+   },
+   {
+    "id": 682,
+    "title": "Лига ФСП: весна",
+    "type": "hackathon",
+    "date": "2026-09-12",
+    "place": 109,
+    "participants": 120,
+    "points": 96
+   },
+   {
+    "id": 683,
+    "title": "Школа ФСП",
+    "type": "hackathon",
+    "date": "2024-07-23",
+    "place": 102,
+    "participants": 120,
+    "points": 71
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100069",
+  "email": "cand69@fsp-demo.ru",
+  "full_name": "Анна Орлов",
+  "events": [
+   {
+    "id": 690,
+    "title": "Хакатон ФСП",
+    "type": "hackathon",
+    "date": "2024-06-24",
+    "place": 25,
+    "participants": 40,
+    "points": 44
+   },
+   {
+    "id": 691,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2025-01-01",
+    "place": 1,
+    "participants": 200,
+    "points": 57
+   },
+   {
+    "id": 692,
+    "title": "Московская командная олимпиада",
+    "type": "contest",
+    "date": "2024-08-30",
+    "place": 124,
+    "participants": 200,
+    "points": 81
+   },
+   {
+    "id": 693,
+    "title": "Открытый кубок ФСП",
+    "type": "contest",
+    "date": "2024-12-23",
+    "place": 1,
+    "participants": 40,
+    "points": 50
+   },
+   {
+    "id": 694,
+    "title": "Лига ФСП: осень",
+    "type": "contest",
+    "date": "2024-07-30",
+    "place": 1,
+    "participants": 60,
+    "points": 12
+   }
+  ]
+ },
+ {
+  "fsp_id": "FSP-100070",
+  "email": "cand70@fsp-demo.ru",
+  "full_name": "Ольга Смирнова",
+  "events": [
+   {
+    "id": 700,
+    "title": "Школа ФСП",
+    "type": "contest",
+    "date": "2025-05-09",
+    "place": 36,
+    "participants": 60,
+    "points": 35
+   }
+  ]
+ }
+]
