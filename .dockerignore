@@ -1,0 +1,4 @@
+data/app.db
+**/__pycache__
+.git
+docs/validation_results.json
